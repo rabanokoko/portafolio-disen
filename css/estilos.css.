@@ -1,4 +1,3 @@
-/* Configuración para Diseñadores Gráficos */
 body {
  font-family: 'Arial', sans-serif;
  background-color: #f4f4f4; /* Un gris claro de fondo */
