@@ -19,7 +19,7 @@ img {
  box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
 }
 section {
- background: white;
+ background: purple;
  margin-top: 20px;
  padding: 20px;
  border-radius: 8px;
