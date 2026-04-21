@@ -8,7 +8,7 @@ body {
 }
 header {
  background-color: #38B07B; /* Un color elegante */
- color: blue;
+ color: black;
  padding: 20px;
  text-align: center;
 }
@@ -26,7 +26,7 @@ section {
 
 /* Estilos para el Formulario */
 #contacto {
-    background-color: var(--blue);
+    background-color: var(--pink);
     padding: 40px;
     border-radius: 15px;
     margin-top: 20px;
