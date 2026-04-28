@@ -58,7 +58,7 @@ section {
 }
 
 .boton-enviar {
-    background-color: var(--rojo-inem);
+    background-color: var(--morado);
     color: pink;
     padding: 15px;
     border: none;
@@ -69,11 +69,11 @@ section {
 }
 
 .boton-enviar:hover {
-    background-color: var(--azul-inem);
+    background-color: var(--verde);
 }
 /* Menú Superior */
 .menu-superior {
-    background-color: #004a99; /* Azul - Así es visible */
+    background-color: #400224; /* cafe - Así es visible */
     padding: 15px 0;
     position: sticky; 
     top: 0;
@@ -92,9 +92,9 @@ section {
 }
 
 .logo {
-    color: #ffffff; /* Blanco */
+    color: #4227F2; /* Azul */
     font-weight: bold;
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     text-transform: uppercase;
 }
 
@@ -106,14 +106,14 @@ section {
 }
 
 .enlaces a {
-    color: #ffffff; /* Texto Blanco siempre visible */
+    color: #4227F2; /* Texto Azul siempre visible */
     text-decoration: none;
     font-weight: bold;
     transition: 0.3s;
 }
 
 .enlaces a:hover {
-    color: #ff0000; /* Rojo cuando pasas el mouse */
+    color: #07D98C; /* green cuando pasas el mouse */
 }
 
 /* Botón del Carrito resaltado */
