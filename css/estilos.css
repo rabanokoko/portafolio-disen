@@ -1,6 +1,6 @@
 body {
  font-family: 'Arial', sans-serif;
- background-color: #A60D61; /* Un negro de fondo */
+ background-color: #4227F2; /* Un negro de fondo */
  color: #00; /* Texto negro para mejor lectura */
  line-height: 1.6;
  margin: 0;
@@ -102,7 +102,7 @@ section {
 .enlaces {
     list-style: none;
     display: flex;
-    gap: 30px; /* Espacio entre botones */
+    gap: 80px; /* Espacio entre botones */
     margin: 0;
 }
 
