@@ -46,7 +46,7 @@ section {
 .grupo-entrada label {
     margin-bottom: 5px;
     font-weight: bold;
-    color: var(--azul-inem);
+    color: var(--green);
 }
 
 .grupo-entrada input, 
