@@ -18,7 +18,7 @@ img {
  box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
 }
 section {
- background: #AO60D61;
+ background: magenta;
  margin-top: 20px;
  padding: 20px;
  border-radius: 8px;
@@ -118,7 +118,7 @@ section {
 
 /* Botón del Carrito resaltado */
 .boton-carrito {
-    background-color: #d32f2f; /* Rojo*/
+    background-color: #07D98C; /* green*/
     padding: 8px 18px;
     border-radius: 25px;
     border: 2px solid #ffffff;
