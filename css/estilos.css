@@ -7,7 +7,7 @@ body {
  padding: 20px;
 }
 header {
- background-color: #F27EB4; /* Un color elegante */
+ background-color: #A060D61; /* Un color elegante */
  color: black;
  padding: 20px;
  text-align: center;
@@ -18,7 +18,7 @@ img {
  box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
 }
 section {
- background: magenta;
+ background: pink;
  margin-top: 20px;
  padding: 20px;
  border-radius: 8px;
